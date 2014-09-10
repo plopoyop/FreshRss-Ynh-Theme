@@ -1,0 +1,7 @@
+{
+  "name": "Ynh",
+  "author": "Plopoyop",
+  "description": "Le YunoHost pour FreshRss",
+  "version": 0.1,
+  "files": ["template.css", "Ynh.css"]
+}
